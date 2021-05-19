@@ -1,3 +1,5 @@
+#week8practice.py
+
 def last_chars(word,num):
     num2 = [0]
     num1 = ''
